@@ -24,7 +24,7 @@ Unlike other breakout boards, this has a plethora of ports to fit almost any con
 - 2x Therm Ports
 - 1x Hotend Port (Max ~120W)
 - 1x Bed Port (Max ~180W)
-- 1x 24v Step Down 12v (K78L12-500R3)
+- 1x 24v Step Down To 12v (K78L12-500R3)
 
 Uses 2x 2x9 Microfit And 1x Plugable Terminal Block
 
