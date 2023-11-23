@@ -6,7 +6,7 @@ This project is focused on creating a PCB that simplifies connections on the Rat
 Please note that the "VMinion Breakout PCB" is currently in a **beta phase**. It's constantly being updated and improved. Use this mod at your own risk. The rest of the parts (printed casing, mounting parts, etc.) will come soon.
 
 ## Open Source
-Everything related to this project is open-source. Contributions, suggestions, and improvements are always welcome.
+Everything related to this project will be open-source. Contributions, suggestions, and improvements are always welcome.
 
 ## Bill of Materials (BOM)
 A work-in-progress BOM is available [here](https://docs.google.com/spreadsheets/d/1l2unTY74QwLAbzYWbJA4JIBaFDDriVfRlH6mz4mGnKs/edit?usp=sharing).
