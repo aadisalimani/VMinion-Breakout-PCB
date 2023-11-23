@@ -39,7 +39,7 @@ Uses 2x 2x9 Microfit And 1x Plugable Terminal Block
 
 
 ## License
+This PCB project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License - see the [LICENSE](LICENSE) file for details.
 
-This project is licensed under the [GPLv3 License](LICENSE) - see the [LICENSE.md](LICENSE.md) file for details.
 
 
