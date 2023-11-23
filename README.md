@@ -3,7 +3,7 @@
 This project is focused on creating a PCB that simplifies connections on the Ratrig VMinion. Although designed be me, it is inspired by the divider PCB mod by Vector3D [here](https://github.com/AdamV3D/RR-V-Minion-Mods/tree/main/V3D%20Divider%20PCB). 
 
 ## :warning: Beta Version :warning:
-Please note that the "VMinion Breakout PCB" is currently in a **beta phase**. It's constantly being updated and improved. Use this mod at your own risk. Parts (printed cases) will come soon.
+Please note that the "VMinion Breakout PCB" is currently in a **beta phase**. It's constantly being updated and improved. Use this mod at your own risk. The rest of the parts (printed casing, mounting parts, etc.) will come soon.
 
 ## Open Source
 Everything related to this project is open-source. Contributions, suggestions, and improvements are always welcome.
