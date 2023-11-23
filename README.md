@@ -26,6 +26,8 @@ Unlike other breakout boards, this has a plethora of ports to fit almost any con
 - 1x Bed Port (Max ~180W)
 - 1x 24v Step Down 12v (K78L12-500R3)
 
+Uses 2x 2x9 Microfit And 1x Plugable Terminal Block
+
 *Instrucions will follow soon*
 
 ## PCB Images
