@@ -13,6 +13,7 @@ A work-in-progress BOM is available [here](https://docs.google.com/spreadsheets/
 
 ## Getting Started
 *Features*
+
 Unlike other breakout boards, this has a plethora of ports to fit almost any configuration:
 
 - 4x Motor Ports
