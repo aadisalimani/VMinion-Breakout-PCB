@@ -29,9 +29,10 @@ Unlike other breakout boards, this has a plethora of ports to fit almost any con
 *Instrucions will follow soon*
 
 ## PCB Images
-![image](https://github.com/aadisalimani/VMinion-Breakout-PCB/assets/50782076/cf73e50b-7112-4cef-9971-44d39203e6aa)
 ![image](https://github.com/aadisalimani/VMinion-Breakout-PCB/assets/50782076/c9b50a40-4d75-4f8f-bbd1-39fc95fdb4b9)
-![image](https://github.com/aadisalimani/VMinion-Breakout-PCB/assets/50782076/2900a14a-5668-4d5c-9221-b2143b6bd3bb)
+![image](https://github.com/aadisalimani/VMinion-Breakout-PCB/assets/50782076/cf73e50b-7112-4cef-9971-44d39203e6aa)
+
+
 
 
 
