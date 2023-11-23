@@ -13,7 +13,7 @@ A work-in-progress BOM is available [here](https://docs.google.com/spreadsheets/
 
 ## Getting Started
 
-*Instrucions will follow soon*
+#*Instrucions will follow soon*
 
 ## PCB Images
 ![image](https://github.com/aadisalimani/VMinion-Breakout-PCB/assets/50782076/cf73e50b-7112-4cef-9971-44d39203e6aa)
