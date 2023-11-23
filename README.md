@@ -13,16 +13,17 @@ A work-in-progress BOM is available [here](https://docs.google.com/spreadsheets/
 
 ## Getting Started
 *Features*
-Unlike other breakout boards, this has a pleathera of ports to fit almost any configuration.
-4x Motor Ports
-5x General Ports (Endstop, Servo, Neopixel etc.)
-1x Probe Port (5v or 24v with diode)
-3x Fan Ports (Selectable Voltage) - Two Ports Share Selected Voltage
-1x ADXL Port
-2x Therm Ports
-1x Hotend Port (Max ~120W)
-1x Bed Port (Max ~180W)
-1x 24v Step Down 12v (K78L12-500R3)
+Unlike other breakout boards, this has a plethora of ports to fit almost any configuration:
+
+- 4x Motor Ports
+- 5x General Ports (Endstop, Servo, Neopixel etc.)
+- 1x Probe Port (5v or 24v with diode)
+- 3x Fan Ports (Selectable Voltage) - Two Ports Share Selected Voltage
+- 1x ADXL Port
+- 2x Therm Ports
+- 1x Hotend Port (Max ~120W)
+- 1x Bed Port (Max ~180W)
+- 1x 24v Step Down 12v (K78L12-500R3)
 
 *Instrucions will follow soon*
 
