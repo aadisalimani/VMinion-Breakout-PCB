@@ -32,6 +32,7 @@ Uses 2x 2x9 Microfit And 1x Plugable Terminal Block
 
 ## PCB Images
 ![Top](https://github.com/aadisalimani/VMinion-Breakout-PCB/assets/50782076/b66109ba-253c-4d51-95f8-e0f17ad43db4)
+![Bottom](https://github.com/aadisalimani/VMinion-Breakout-PCB/assets/50782076/29443b87-ef66-49cc-9c13-e77a2fea50ee)
 
 
 ## License
